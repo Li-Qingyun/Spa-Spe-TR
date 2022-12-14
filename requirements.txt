@@ -1,0 +1,6 @@
+einops
+scikit-learn
+timm
+termcolor
+functools
+
